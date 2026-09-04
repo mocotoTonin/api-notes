@@ -29,14 +29,12 @@ A API possui as seguintes operações:
 
 Cada nota possui:
 
-```json
 {
   "id": "1",
   "titulo": "Lembretes",
   "texto": "Comprar leite e pão",
   "criadoEm": "2026-04-28T10:00:00Z"
 }
-Testes
 
 Os endpoints da API foram testados utilizando o Postman, verificando as operações de:
 
