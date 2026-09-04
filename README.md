@@ -37,6 +37,8 @@ Cada nota possui:
   "criadoEm": "2026-04-28T10:00:00Z"
 }
 
+```json
+
 Os endpoints da API foram testados utilizando o Postman, verificando as operações de:
 
 GET — Listagem de notas
