@@ -28,7 +28,7 @@ A API possui as seguintes operações:
 ## Estrutura das Notas
 
 Cada nota possui:
-
+```json
 {
   "id": "1",
   "titulo": "Lembretes",
@@ -36,7 +36,7 @@ Cada nota possui:
   "criadoEm": "2026-04-28T10:00:00Z"
 }
 
-```json
+```
 ## Testes
 
 Os endpoints da API foram testados utilizando o Postman, verificando as operações de:
